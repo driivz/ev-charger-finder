@@ -1,0 +1,37 @@
+{
+  "chargers": [
+    {
+      "id": "ch_001",
+      "name": "Tesla Supercharger Downtown",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "status": "available",
+      "type": "DC_FAST",
+      "availablePorts": 4,
+      "totalPorts": 8,
+      "pricePerKwh": 0.28
+    },
+    {
+      "id": "ch_002",
+      "name": "ChargePoint Station",
+      "latitude": 37.7849,
+      "longitude": -122.4094,
+      "status": "occupied",
+      "type": "LEVEL_2",
+      "availablePorts": 0,
+      "totalPorts": 4,
+      "pricePerKwh": 0.15
+    },
+    {
+      "id": "ch_003",
+      "name": "EVgo Fast Charger",
+      "latitude": 37.7649,
+      "longitude": -122.4294,
+      "status": "offline",
+      "type": "DC_FAST",
+      "availablePorts": 0,
+      "totalPorts": 6,
+      "pricePerKwh": 0.32
+    }
+  ]
+}
